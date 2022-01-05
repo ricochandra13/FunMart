@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "541830979032",
+    "firebase_url": "https://funmart-9be74-default-rtdb.firebaseio.com",
+    "project_id": "funmart-9be74",
+    "storage_bucket": "funmart-9be74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541830979032:android:4873308901b6593817e6ad",
+        "android_client_info": {
+          "package_name": "com.funmart.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541830979032-nntcjuk805940sn1ba768j2eu4fm2mtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjkG7Afxb_Zn4y6vkK34BojAUN1fTCzF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541830979032-nntcjuk805940sn1ba768j2eu4fm2mtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
